@@ -1,0 +1,27 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.username {
+  font-weight: 700;
+}
+.btn {
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  border-radius: 45px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 600;
+  color: #524f4e;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: #222121;
+  color: white;
+}
