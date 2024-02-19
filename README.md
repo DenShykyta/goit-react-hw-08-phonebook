@@ -8,8 +8,22 @@ filter the list of contacts by name.
 Follow the link to view the site
 [PHONEBOOK](https://denshykyta.github.io/goit-react-hw-08-phonebook/)
 
-![registration form](./assets/regForm.jpg) ![login form](./assets/logForm.jpg)
-![contacts](./assets/contacts.jpg) ![addMenu](./assets/addMenu.jpg)
+![registration form](./assets/regForm.jpg)
+
+##
+
+![login form](./assets/logForm.jpg)
+
+##
+
+![contacts](./assets/contacts.jpg)
+
+##
+
+![addMenu](./assets/addMenu.jpg)
+
+##
+
 ![filter](./assets/filter.jpg)
 
 ## Technologies
